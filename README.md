@@ -1,2 +1,12 @@
-# Study-of-Quantitative-Strategies-for-Securities-Market-StockLens-
-Processed and cleaned historical stock data to ensure data quality and robust predictions.   Built a responsive web dashboard with Flask and Plotly to visualize real-time prices and predictions.    
+# Stock Market Prediction
+
+## Overview
+This project predicts stock prices using LSTM models and provides a web-based dashboard for visualization.
+
+## Features
+- Uses LSTM networks for time-series predictions
+- Visualizes stock trends on a Flask-based dashboard
+
+## Installation
+```bash
+pip install -r requirements.txt
